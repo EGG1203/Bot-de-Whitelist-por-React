@@ -8,9 +8,6 @@ EPIFANO#8116
 # npm somente se clonar o git caso não saiba importar um modulo antigo baixe a zip do drive
 IMPORTAR BANCO DE DADOS ... (FIREBASE - REAL TIME)
 
-MODULOS EM ZIP E SO EXTRAIR ... OU USAR A VERSAO QUE ESTA NO PACKT
-
-IMPORTAR DISCORD.JS
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
