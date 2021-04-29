@@ -1,4 +1,4 @@
-# BOT REACT WITHLIST (BANCO DE DADOS FIREBASE)
+# BOT REACT WHITELIST (BANCO DE DADOS FIREBASE)
 
 EPIFANO#8116
 É GG#1203
@@ -14,10 +14,9 @@ IMPORTAR DISCORD.JS
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-# DISCORD 4FUN E SUPORTE
+# DISCORD SUPORTE
 
 https://discord.gg/sgZAMyM3st
-discord.club/i/ERROR-404
 
 
 # TUTORIAL BASICO
