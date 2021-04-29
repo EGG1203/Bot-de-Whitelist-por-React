@@ -1,0 +1,15 @@
+{
+  "name": "ngrp-wl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Bastos(É GG#1203)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "firebase": "^8.2.9"
+  }
+}
